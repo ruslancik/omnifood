@@ -24,7 +24,7 @@ html {
 }
 
 header {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/hero.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(../img/hero.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -360,7 +360,7 @@ section {
 
 
 .section-testimonials {
-    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(img/back-customers.jpg);
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(css/img/back-customers.jpg);
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
